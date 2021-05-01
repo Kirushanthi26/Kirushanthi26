@@ -1,4 +1,4 @@
-###Kirushanthi Letchumanan
+#Hi, I'm Kirushanthi Letchumanan 👋
 
 - 👋 Hi, I’m @Kirushanthi26
 - 👀 I’m interested in React JS
